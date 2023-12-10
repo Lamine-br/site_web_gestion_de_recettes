@@ -1,0 +1,13 @@
+li{
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.active{
+    background-color: rgb(59, 134, 201);
+}
+
+.cadre{
+    width : 30%;
+}
+
